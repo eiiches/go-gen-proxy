@@ -33,6 +33,8 @@ Tutorial
    }
    ```
 
+   You can also use a tool like [ifacemaker](https://github.com/vburenin/ifacemaker) to extract and generate an interface from existing structs.
+
 3. Generate a proxy struct that implements the interface.
 
    ```console
